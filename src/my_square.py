@@ -5,6 +5,9 @@ def my_square(x):
 	return(x**2)
 
 def my_square2(x):
+	'''
+		Uses the ** operator to calculate square
+	'''
 	return (x**2)
 
 print(my_square(42))
