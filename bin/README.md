@@ -1,4 +1,4 @@
 
-# bin
+# Bin
 
 Binary files
