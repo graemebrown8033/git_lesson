@@ -4,4 +4,8 @@ def my_square(x):
 	#uses the ** operator
 	return(x**2)
 
-print(my_square(4))
+def my_square2(x):
+	return (x**2)
+
+print(my_square(42))
+print(my_square2(42))
